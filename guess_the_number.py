@@ -27,4 +27,4 @@ def computer_guess(x):
                 high = my_guess - 1
     print(f'Yay, Congratulations. You have guessed the number {my_guess} correctly!')                
 
-computer_guess(20)
+computer_guess(13)
